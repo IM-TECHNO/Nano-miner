@@ -19,6 +19,9 @@ Please consider donating DUCO to username : techno
 Make sure to supply sufficient power to the NANOs.
 
 
+## Screenshots
+
+![PCB in 3D](https://cdn.discordapp.com/attachments/1005954495664115763/1005957875065176084/unknown.png)
 
 
 
